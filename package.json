@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ToJoh123/crispy-packages/issues"
   },
-  "homepage": "https://github.com/ToJoh123/crispy-packages#readme"
+  "homepage": "https://github.com/ToJoh123/crispy-packages#readme",
+  "publishConfig": {
+    "@ToJoh123:registry": "https://npm.pkg.github.com"
+  }
 }
